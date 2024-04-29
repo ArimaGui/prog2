@@ -4,7 +4,7 @@ header{ /*classe cabecalho criada no HTML*/
 }
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
-    background-color: #FFFFFF;
+    background-color: #b20707;
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
     width: 100px; /*largura da imagem do cabeçalho*/
@@ -39,7 +39,7 @@ body{ /*fonte utilizada em todo texto da página*/
     margin-left: 10%;
 }
 .escola{ /*classe escola no HTML*/
-    background-image: linear-gradient(#b20707, #b20707); /*imagem de fundo*/
+    background-image: linear-gradient(#FFFFFF, #FFFFFF); /*imagem de fundo*/
     color: white;
     display: flex;
     justify-content: center;
