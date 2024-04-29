@@ -1,7 +1,4 @@
-header{ /*classe cabecalho criada no HTML*/
-    background-color: #FFFFFF; /*cor do fundo*/
-    color: white; /*cor da fonte*/
-}
+
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
     background-color: #FFFFFF;
@@ -51,6 +48,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .escola-titulo{ /*classe escola-titulo no HTML*/
     padding: 24px 0; /*24 pixels nas margens de cima e de baixo, nenhum na direita e esquerda do elemento*/
+    color: #e60000
 }
 .estudante-imagem{ /*classe estudante-imagem no HTML*/
     width: 120px;
