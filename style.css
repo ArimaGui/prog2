@@ -1,5 +1,5 @@
 header{ /*classe cabecalho criada no HTML*/
-    background-color: #000000; /*cor do fundo*/
+    background-color: #FFFFFF; /*cor do fundo*/
     color: white; /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
@@ -13,7 +13,7 @@ body{ /*fonte utilizada em todo texto da página*/
     padding: 18px 40px;
 }
 .cabecalho{ /*classe cabecalho no HTML*/
-    background-color: #383d58; 
+    background-color: #000000; 
     color: white;
     display: flex; /*organiza os elementos lado a lado, só muda de linha se ocupar todo o espaço*/
     justify-content: space-around; /*justifica o conteúdo, space-around=espaço ao redor, cria margens iguais entre os elemtnos da linha*/
